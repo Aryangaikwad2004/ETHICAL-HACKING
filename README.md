@@ -11,5 +11,5 @@ Learning about ethical hacking:
 I have started nmap series 
 
 *CODES*
-1.hing3
+1.ping3
 2.nmap -h, -s, -v
